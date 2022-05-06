@@ -7,5 +7,8 @@ A fun drum kit app for the music lovers
 ## Known bugs
 event.keyCode is deprecated, though it still works ;)
 
+## How it works
+Just click on the live link [👉 here](https://pronepoet.github.io/drum_Kit/) and press the keys on the page to try it out. Tell me what you think
+
 ## Author
 Okeyo 
